@@ -1,2 +1,1 @@
-# RNP-TECH-GAMING
-Made by rohit
+RNP TECH GAMING
